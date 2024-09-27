@@ -107,7 +107,6 @@ const Navbar = ({ onSelectCategory, onSearch }) => {
         <nav className="navbar navbar-expand-lg fixed-top">
           <div className="container-fluid">
             <a className="navbar-brand">EStore</a>
-            <h1>Gautam Bhardwaj</h1>
             <button
               className="navbar-toggler"
               type="button"
